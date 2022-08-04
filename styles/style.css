@@ -147,6 +147,7 @@ footer {
     display: flex;
     flex-wrap: wrap-reverse;
     justify-content: flex-end;
+    margin: 20px;
 }
 
 .friend {

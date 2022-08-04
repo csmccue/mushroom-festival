@@ -41,3 +41,7 @@ It's so easy to imagine new features for games.
  - What if there were three trees in the forest, and you clicked on one to figure out where a mushroom is (like hide and seek from day 1?)
  - What if some mushrooms were poison and render differently? And you could only feed them to animals who are resistant to that poison?
  - etc etc etc
+
+## Connor To-do List
+## Display mushrooms
+
